@@ -1,5 +1,3 @@
-# geekTrustFalcone
-
 # Finding Falcone: UI Prototype
 
 ## Overview
